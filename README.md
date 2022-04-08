@@ -5,3 +5,4 @@ Users make their passwords like these passwords which they can remember easiliy 
 The major problem for the user is to remember the password. I have done solution of it, the password which is made with it's all information like email, date, time, company name, website name and along all the things the password is saved in file named 'password.txt'.
 So to save the normal peoples to not get hacked by using simple easy passwords, I have made this password generator.
 THANK YOU....
+ 
